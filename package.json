@@ -1,0 +1,27 @@
+{
+  "name": "github-actions-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest source/app.test.js",
+    "start": "node source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holuphilix/Github-Actions-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holuphilix/Github-Actions-Node/issues"
+  },
+  "homepage": "https://github.com/Holuphilix/Github-Actions-Node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
