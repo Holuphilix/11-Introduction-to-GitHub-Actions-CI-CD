@@ -1,4 +1,4 @@
-const app = require('./source/app'); // Importing the Express app from app.js inside the "source" folder
+const app = require('./app'); // Importing app.js from the same directory
 const port = process.env.PORT || 3000; // Use the environment variable PORT or default to 3000
 
 // Start the server and listen on the specified port, binding to all interfaces
