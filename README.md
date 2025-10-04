@@ -1,4 +1,5 @@
-# Node.js CI/CD with GitHub Actions and AWS EC2
+
+# Mini Project: Node.js CI/CD with GitHub Actions and AWS EC2
 
 ## 📌 Project Overview
 This project demonstrates a **CI/CD pipeline** for deploying a **Node.js** application to an **AWS EC2 instance** using **GitHub Actions** and **PM2** for process management. The pipeline runs tests and deploys the application upon successful changes.
